@@ -52,7 +52,7 @@ export default function Experiencias() {
               Em busca da primeira oportunidade
             </Text>
             <Text style={[styles.text, { marginTop: 12 }]}>
-              Aos 18 anos, estou no início da minha trajetória — e escolhi
+              Aos 32 anos, estou no início da minha trajetória — e escolhi
               começar criando, não esperando.
             </Text>
             <View style={styles.list}>
